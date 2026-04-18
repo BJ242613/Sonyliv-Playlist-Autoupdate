@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:26:05 18-04-2026",
+    "last update time": "23:17:26 18-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Eintracht Frankfurt vs RB Leipzig - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776570965~acl=/*~id=87246464433350595646550453572801~hmac=799c68841478aae67e0e4b82c18580fb9941043f21cf547419f1c934aa88d80b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776570965~acl=/*~id=87246464433350595646550453572801~hmac=799c68841478aae67e0e4b82c18580fb9941043f21cf547419f1c934aa88d80b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776570965~acl=/*~id=87246464433350595646550453572801~hmac=799c68841478aae67e0e4b82c18580fb9941043f21cf547419f1c934aa88d80b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776577645~acl=/*~id=71061163624467409773856926454407~hmac=cd8be74d594e21866ad689da25cddc39d6354250dfa132f56b8cb74caa618888",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776577645~acl=/*~id=71061163624467409773856926454407~hmac=cd8be74d594e21866ad689da25cddc39d6354250dfa132f56b8cb74caa618888",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Ei1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776577645~acl=/*~id=71061163624467409773856926454407~hmac=cd8be74d594e21866ad689da25cddc39d6354250dfa132f56b8cb74caa618888"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090528336_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "LIV Golf",
+            "match_name": "Mexico City - Day 3 - 18 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Mex1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776577645~acl=/*~id=71061163624467409773856926454407~hmac=cd8be74d594e21866ad689da25cddc39d6354250dfa132f56b8cb74caa618888",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Mex1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776577645~acl=/*~id=71061163624467409773856926454407~hmac=cd8be74d594e21866ad689da25cddc39d6354250dfa132f56b8cb74caa618888",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Mex1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776577645~acl=/*~id=71061163624467409773856926454407~hmac=cd8be74d594e21866ad689da25cddc39d6354250dfa132f56b8cb74caa618888"
         },
         {
             "event_category": "Football",
