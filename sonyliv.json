@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:36:21 03-05-2026",
+    "last update time": "21:26:58 03-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,57 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Borussia Monchengladbach vs Borussia Dortmund - MD 32 - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090529605_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017695/1777814290883144_IFL26_Diamond-Harbour-FC-vs-Sreenidi-Deccan-FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_name": "Diamond Harbour FC vs Sreenidi Deccan FC - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/INDIAN_F0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/INDIAN_F0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/INDIAN_F0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090529620_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777372597018475_Bundesliga_2025-26_MD-32_St-Pauli-vs-Mainz_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "FC St. Pauli vs FSV Mainz - MD 32 - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/StPauli_0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/StPauli_0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/StPauli_0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377"
-        },
-        {
-            "event_category": "Racing",
-            "isLive": true,
-            "contentId": "1090529612_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777487488206406_ABB_FIA_FormulaE_WC26_RD8_Berlin_EPrix_Final_Race_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ABB FIA Formula E World Championship",
-            "match_name": " Round 8 - Berlin E - Prix - Final Race - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/Formula_0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/Formula_0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/Formula_0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777863979~acl=/*~id=96063943605955510506978883049855~hmac=f7caee6bfcdf5287e5a3d19f99dd78e1fe7e826a47489fe4d21f1307cb000377"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090529537,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017646/1777575925686683_UCL_Semi_Final_Leg2_Arsenal_vs_Atletico_promo_landscape_thumb_SP_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Atletico - UEFA Champions League 2025-26"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777867017~acl=/*~id=03898445670322386198728668429994~hmac=cd3f46a67108e1d099b204d891e64058cd003c630d365ed3cafd74740da12e0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777867017~acl=/*~id=03898445670322386198728668429994~hmac=cd3f46a67108e1d099b204d891e64058cd003c630d365ed3cafd74740da12e0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777867017~acl=/*~id=03898445670322386198728668429994~hmac=cd3f46a67108e1d099b204d891e64058cd003c630d365ed3cafd74740da12e0e"
         },
         {
             "event_category": "Football",
@@ -72,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529537,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017646/1777575925686683_UCL_Semi_Final_Leg2_Arsenal_vs_Atletico_promo_landscape_thumb_SP_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Atletico - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
