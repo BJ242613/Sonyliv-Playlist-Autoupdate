@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:47:09 07-06-2026",
+    "last update time": "02:57:54 07-06-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,35 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "England vs New Zealand - 7 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534066_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Vitality Blast 2026",
-            "match_name": "Durham vs Northampton - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780824473~acl=/*~id=24398805501504491114779805650285~hmac=b092f789a5d65e67e3a85a7a64f03a516a4f0b19d6d3a3f250668c43d152e55b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780824473~acl=/*~id=24398805501504491114779805650285~hmac=b092f789a5d65e67e3a85a7a64f03a516a4f0b19d6d3a3f250668c43d152e55b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780824473~acl=/*~id=24398805501504491114779805650285~hmac=b092f789a5d65e67e3a85a7a64f03a516a4f0b19d6d3a3f250668c43d152e55b"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090534118_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625947353940_INT_Friendlies26_Switzerland_vs_Australia_4jun_landscape_thumb.jpg",
+            "contentId": "1090534235_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627099108940_INT_Friendlies26_Turkiye_vs_Venezuela_4jun_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
-            "match_name": "Switzerland vs Australia - 7 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780820228~acl=/*~id=39263719335974709923739096149616~hmac=59daf7f1ad2a3b6f1032974ab743a71f93b91c6e38bdc2f7418faa1151e6ada7"
+            "match_name": "Turkiye vs Venezuela - 7 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780824473~acl=/*~id=24398805501504491114779805650285~hmac=b092f789a5d65e67e3a85a7a64f03a516a4f0b19d6d3a3f250668c43d152e55b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780824473~acl=/*~id=24398805501504491114779805650285~hmac=b092f789a5d65e67e3a85a7a64f03a516a4f0b19d6d3a3f250668c43d152e55b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780824473~acl=/*~id=24398805501504491114779805650285~hmac=b092f789a5d65e67e3a85a7a64f03a516a4f0b19d6d3a3f250668c43d152e55b"
         },
         {
             "event_category": "Cricket",
