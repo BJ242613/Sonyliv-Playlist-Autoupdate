@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:41:41 03-07-2026",
+    "last update time": "16:23:37 03-07-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090535684_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289920055701_DP_World_Tour_BMW_International_Open_day2_24jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "BMW International Open - Day 2 - 3 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DP_World0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783119216~acl=/*~id=83908739813319351277440554334080~hmac=9adb866b8dcfb2989aafaebd0ba4928d38e103baae0d4f7cbf4dbc5938b4214c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DP_World0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783119216~acl=/*~id=83908739813319351277440554334080~hmac=9adb866b8dcfb2989aafaebd0ba4928d38e103baae0d4f7cbf4dbc5938b4214c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DP_World0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783119216~acl=/*~id=83908739813319351277440554334080~hmac=9adb866b8dcfb2989aafaebd0ba4928d38e103baae0d4f7cbf4dbc5938b4214c"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": false,
