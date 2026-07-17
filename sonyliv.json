@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:54:37 17-07-2026",
+    "last update time": "01:06:06 18-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast Women 2026",
             "match_name": "The Blaze Women vs Durham Women - Final - 17 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784355876~acl=/*~id=16658112719915889004166784859852~hmac=919e93e2dcefbf13080cac3a3290f750fbdc015e80500878156fc7be78267767",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784355876~acl=/*~id=16658112719915889004166784859852~hmac=919e93e2dcefbf13080cac3a3290f750fbdc015e80500878156fc7be78267767",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784355876~acl=/*~id=16658112719915889004166784859852~hmac=919e93e2dcefbf13080cac3a3290f750fbdc015e80500878156fc7be78267767"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784360166~acl=/*~id=46809388613263609734329669577086~hmac=01161528fe57664363fadde13d571c54dc531381dcf862f2c79df7b4f0b39c60",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784360166~acl=/*~id=46809388613263609734329669577086~hmac=01161528fe57664363fadde13d571c54dc531381dcf862f2c79df7b4f0b39c60",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784360166~acl=/*~id=46809388613263609734329669577086~hmac=01161528fe57664363fadde13d571c54dc531381dcf862f2c79df7b4f0b39c60"
         },
         {
             "event_category": "Sports",
