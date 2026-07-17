@@ -1,1 +1,56 @@
-{"error":"Failed to fetch data from source.","status":0}
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "15:38:54 17-07-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090536655_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111308675411_VitalityBlast26_Womens_Surrey_vs_The_Blaze_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast Women 2026",
+            "match_name": "Surrey Women vs The Blaze Women - 17 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784326134~acl=/*~id=25616798504299054942910049437575~hmac=8d3b8adb37d5aca7a7c3978561736633540e0a21adec2b389f8f1ddea30b3a34",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784326134~acl=/*~id=25616798504299054942910049437575~hmac=8d3b8adb37d5aca7a7c3978561736633540e0a21adec2b389f8f1ddea30b3a34",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784326134~acl=/*~id=25616798504299054942910049437575~hmac=8d3b8adb37d5aca7a7c3978561736633540e0a21adec2b389f8f1ddea30b3a34"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536279,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020595/1784056856209283_CWG26_neeraj_spl_15jul_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536181,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020536/1783933139419971_Commonwealth_Games_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536670,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020640/1784202164834799_CWG26_rev_promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
+        }
+    ]
+}
