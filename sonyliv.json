@@ -1,20 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:20:23 23-07-2026",
+    "last update time": "23:41:18 23-07-2026",
     "matches": [
         {
-            "event_category": "Golf",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090536961_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg",
+            "contentId": "1090536267_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "LIV Golf",
-            "match_name": "UK - Day 1 - 23 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784868622~acl=/*~id=94595216439124993257732275516021~hmac=34c93fe5867a5f20472ffc36b1d36128a89a1a9dd29e52b9e356db663194b259",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784868622~acl=/*~id=94595216439124993257732275516021~hmac=34c93fe5867a5f20472ffc36b1d36128a89a1a9dd29e52b9e356db663194b259",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784868622~acl=/*~id=94595216439124993257732275516021~hmac=34c93fe5867a5f20472ffc36b1d36128a89a1a9dd29e52b9e356db663194b259"
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Opening Ceremony - 23 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Opening Ceremony - 23 Jul 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Opening Ceremony - 23 Jul 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Opening Ceremony - 23 Jul 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Opening Ceremony - 23 Jul 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784873477~acl=/*~id=09122815110884349969019315752327~hmac=7e7088845f6ae4ae5ebcfae3a84568e90bbb8cb88d5c853e169179747683bd43"
         },
         {
             "event_category": "Football",
@@ -33,15 +85,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020834/1784803250073674_upcoming_opening_ceremony_promo_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Opening Ceremony - Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Sports",
