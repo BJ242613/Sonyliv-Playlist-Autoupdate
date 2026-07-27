@@ -1,124 +1,124 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:15:08 27-07-2026",
+    "last update time": "00:46:33 28-07-2026",
     "matches": [
         {
-            "event_category": "Bowls and Para Bowls",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090536267_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021139/1785109751938884_CWG_generic_day4_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021184/1785171500269320_CWG_live_combo_version4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 4 - 27 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "India In Action - Athletics - 27 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
-            "event_category": "Bowls and Para Bowls",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090536267_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021139/1785109751938884_CWG_generic_day4_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021184/1785171500269320_CWG_live_combo_version4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 4 - 27 Jul 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "India In Action - Athletics - 27 Jul 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
-            "event_category": "Bowls and Para Bowls",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090536267_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021139/1785109751938884_CWG_generic_day4_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021184/1785171500269320_CWG_live_combo_version4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 4 - 27 Jul 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "India In Action - Athletics - 27 Jul 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
-            "event_category": "Bowls and Para Bowls",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090536267_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021139/1785109751938884_CWG_generic_day4_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021184/1785171500269320_CWG_live_combo_version4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 4 - 27 Jul 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "India In Action - Athletics - 27 Jul 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
-            "event_category": "Bowls and Para Bowls",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090536267_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021139/1785109751938884_CWG_generic_day4_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021184/1785171500269320_CWG_live_combo_version4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 4 - 27 Jul 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "India In Action - Athletics - 27 Jul 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536387_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785173381263_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785179019438_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Brooke Neely vs Nadeeka Ranasinghe - Women's 51kg - Boxing - 27 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "Sonny Kerr vs Boniface Maina - Men's\u00a070kg - Boxing - 27 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
             "event_category": "Athletics",
             "isLive": true,
-            "contentId": "1090536268_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785173128209_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Men's High Jump - Athletics - 27 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
-        },
-        {
-            "event_category": "Bowls and Para Bowls",
-            "isLive": true,
             "contentId": "1090536386_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785169722079_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785179132328_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Frederrick Tafatu vs Harriman Yuen - Men's Singles - Bowls and Para Bowls - 27 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "Women's 10,000m - Athletics - 27 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
-            "event_category": "Basketball",
+            "event_category": "Weightlifting",
             "isLive": true,
             "contentId": "1090536385_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785173842310_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785179702989_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "England vs Tonga - Women - Basketball - 27 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785217504~acl=/*~id=09214497530878925557709953371362~hmac=e306818219ef4acf953cfa6a924abd91fcb9d89fe09fe09f3cd3e1081d90363b"
+            "match_name": "Men's 79kg - Weightlifting - 27 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
+        },
+        {
+            "event_category": "Aquatics",
+            "isLive": true,
+            "contentId": "1090536268_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785179397991_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Men's 50m Breaststroke - Aquatics - 27 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785222989~acl=/*~id=97701639837887141990925615759279~hmac=41d16b78ef82684d12b9363bf9d75c469d65cebfe93a5708959457670dc0943d"
         },
         {
             "event_category": "Cricket",
@@ -193,6 +193,15 @@
             "event_name": "Upcoming - Durand Cup 2026"
         },
         {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020991/1784972587782658_Commonwealth_Games_2026_GOB_Landscape_Thumb_1.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504215,
@@ -200,15 +209,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021143/1785135314690401_CWG_upcoming_High-Jump_Tejaswin_Shankar_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
         }
     ]
 }
