@@ -1,98 +1,85 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:50:15 02-08-2026",
+    "last update time": "01:51:08 02-08-2026",
     "matches": [
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021644/1785605077909487_CWG_30th_July_FixturesV9_live_Combo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "India in Action - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021644/1785605077909487_CWG_30th_July_FixturesV9_live_Combo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "India in Action - 1 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021644/1785605077909487_CWG_30th_July_FixturesV9_live_Combo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "India in Action - 1 Aug 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021644/1785605077909487_CWG_30th_July_FixturesV9_live_Combo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "India in Action - 1 Aug 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021644/1785605077909487_CWG_30th_July_FixturesV9_live_Combo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021664/1785612278441232_CWG_30th_July_FixturesV10_live_Combo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "India in Action - 1 Aug 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Athletics",
             "isLive": true,
-            "contentId": "1090538222_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090536268_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785614288225_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Medic vs Rodriguez",
-            "match_name": "UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090538222_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Medic vs Rodriguez",
-            "match_name": "UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Men's One Mile - Athletics - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
             "event_category": "Athletics",
@@ -103,35 +90,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "Men's Pole Vault - Final - Athletics - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
-            "event_category": "Athletics",
-            "isLive": true,
-            "contentId": "1090536268_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785611714281_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Men's 4 x 100m Relay - Athletics - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
-        },
-        {
-            "event_category": "Boxing",
+            "event_category": "Bowls and Para Bowls",
             "isLive": true,
             "contentId": "1090536386_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 9 - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "match_name": "Scotland vs Australia - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
             "event_category": "Bowls and Para Bowls",
@@ -141,10 +115,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 9 - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785655211~acl=/*~id=61862246159160398501522635651549~hmac=33cb8ff236892696978ca441bfd64e21647ff41f82613a4cb0bc5c93b49c3b5c"
+            "match_name": "England vs Norfolk Island - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785658865~acl=/*~id=44023037246286590221361020579802~hmac=a46efce5a1a48e20de1ddea80ca3d216e8a0620b0c1268bb0ca00c84e1a5a14c"
         },
         {
             "event_category": "Cricket",
@@ -165,15 +139,6 @@
             "event_name": "Upcoming - Durand Cup 2026"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536181,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020333/1783099190480918_CWG26_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090535477,
@@ -192,15 +157,6 @@
             "event_name": "Upcoming - Durand Cup 2026"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536670,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020618/1784128258502495_CWG26_promo_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Gunning for Gold At Glasgow 2026 Commonwealth Games"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090536899,
@@ -213,7 +169,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021592/1785567881905359_CWG_upcoming_ATHLETICS_5000m-Final_Gulveer-Singh_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020333/1783099190480918_CWG26_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
