@@ -1,13 +1,26 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:51 05-08-2026",
+    "last update time": "15:31:39 05-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538623_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785706334820385_DC26_Neroca_FC_vs_Indian_Navy_FT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "Neroca FC vs Indian Navy FT  - 5 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785967299~acl=/*~id=42133384814170037430514294913310~hmac=801064fef784b73aa52b80ded496ec24429539140b49e77965696e8d434b2470",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785967299~acl=/*~id=42133384814170037430514294913310~hmac=801064fef784b73aa52b80ded496ec24429539140b49e77965696e8d434b2470",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785967299~acl=/*~id=42133384814170037430514294913310~hmac=801064fef784b73aa52b80ded496ec24429539140b49e77965696e8d434b2470"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021793/1785855057361312_SLvsIND26_1test_10DTG_Promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021806/1785915240452159_INDvsSL_warmpup_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
@@ -16,7 +29,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090538649,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021798/1785908433128439_Facup_promo_5aug_landscpae_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592230632772_Community-Shield-2026_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026"
@@ -25,7 +38,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090538616,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021788/1785851912001999_UEFA_supercup_psg_aston_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021805/1785914804405356_UEFA-Super-Cup_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
