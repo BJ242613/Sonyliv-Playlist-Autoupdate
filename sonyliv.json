@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:54:34 05-08-2026",
+    "last update time": "21:46:09 05-08-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090538625_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707218265385_DC26_India_Army_FT_vs_Baghpat_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "India Army FT vs Baghpat FC - 5 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Mixed Disability IT20 series",
             "match_name": "England vs India - 1st T20I - 5 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785989768~acl=/*~id=32885679522332790637539394589074~hmac=ac6198954c683132584c957cca08c347be0c8daeecd62abcaf3458f7bf7e52ab",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785989768~acl=/*~id=32885679522332790637539394589074~hmac=ac6198954c683132584c957cca08c347be0c8daeecd62abcaf3458f7bf7e52ab",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785989768~acl=/*~id=32885679522332790637539394589074~hmac=ac6198954c683132584c957cca08c347be0c8daeecd62abcaf3458f7bf7e52ab"
         },
         {
             "event_category": "Cricket",
