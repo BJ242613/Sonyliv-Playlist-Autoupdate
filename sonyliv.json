@@ -1,20 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:32:51 05-08-2026",
+    "last update time": "19:54:34 05-08-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090538623_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785706334820385_DC26_Neroca_FC_vs_Indian_Navy_FT_landscape_thumb.jpg",
+            "contentId": "1090538625_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707218265385_DC26_India_Army_FT_vs_Baghpat_FC_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Neroca FC vs Indian Navy FT  - 5 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785974570~acl=/*~id=12718626231069484047838957388278~hmac=41d6e2d5b3df4dcc2edf6fd69ce4a64d992639b87d4d29e8689149e2bdbf8c7a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785974570~acl=/*~id=12718626231069484047838957388278~hmac=41d6e2d5b3df4dcc2edf6fd69ce4a64d992639b87d4d29e8689149e2bdbf8c7a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785974570~acl=/*~id=12718626231069484047838957388278~hmac=41d6e2d5b3df4dcc2edf6fd69ce4a64d992639b87d4d29e8689149e2bdbf8c7a"
+            "match_name": "India Army FT vs Baghpat FC - 5 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090538638_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021796/178586061322053_Vitality_Mixed_Disability_1st_T20i_England_vs_India_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Mixed Disability IT20 series",
+            "match_name": "England vs India - 1st T20I - 5 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785983073~acl=/*~id=59088125025925051166039071179556~hmac=583aaa6a3a25e657ccdb82fc7ba13b6e22dbe2af274ba16df3308514cd55c4b3"
         },
         {
             "event_category": "Cricket",
