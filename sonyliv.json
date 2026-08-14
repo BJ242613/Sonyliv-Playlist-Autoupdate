@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:58:55 14-08-2026",
+    "last update time": "17:49:30 14-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786750135~acl=/*~id=13451406093511795345297215150090~hmac=5affc813a3d72077c8d0826251f339707cd7fd3558d572fd84f6df9b063859dc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786750135~acl=/*~id=13451406093511795345297215150090~hmac=5affc813a3d72077c8d0826251f339707cd7fd3558d572fd84f6df9b063859dc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786750135~acl=/*~id=13451406093511795345297215150090~hmac=5affc813a3d72077c8d0826251f339707cd7fd3558d572fd84f6df9b063859dc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786753170~acl=/*~id=04332642298116256772209439738668~hmac=bf92ec68d44a38beaedcf5e142bbd577b94e9112e2b4f3d16f20351b01cddab3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786753170~acl=/*~id=04332642298116256772209439738668~hmac=bf92ec68d44a38beaedcf5e142bbd577b94e9112e2b4f3d16f20351b01cddab3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786753170~acl=/*~id=04332642298116256772209439738668~hmac=bf92ec68d44a38beaedcf5e142bbd577b94e9112e2b4f3d16f20351b01cddab3"
         },
         {
             "event_category": "Cricket",
@@ -65,7 +65,7 @@
             "event_category": "Fight Sports",
             "isLive": false,
             "contentId": 1090538996,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021986/1786355422512863_UFC_330_Makhachev_vs_Machado_Garry_Promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000603_UFC_330_Makhachev_vs_Machado_Garry_Landscape_Thumb_Dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 330 - Makhachev vs Machado Garry "
