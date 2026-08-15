@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:41:22 15-08-2026",
+    "last update time": "22:11:43 15-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Mixed Disability IT20 series",
             "match_name": "England vs India - 5th T20I - 15 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786853481~acl=/*~id=20191599465902911329498907272528~hmac=4df8c9f34d0966524f0433c5408f93b8f089d9f8d7684713f9775952061148fd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786853481~acl=/*~id=20191599465902911329498907272528~hmac=4df8c9f34d0966524f0433c5408f93b8f089d9f8d7684713f9775952061148fd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786853481~acl=/*~id=20191599465902911329498907272528~hmac=4df8c9f34d0966524f0433c5408f93b8f089d9f8d7684713f9775952061148fd"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786855303~acl=/*~id=99235443659157942440981524070053~hmac=ce2009281ebdf7624c309743217d6a3ef6662d1ede6126b2ace2ffada1b27dbc",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786855303~acl=/*~id=99235443659157942440981524070053~hmac=ce2009281ebdf7624c309743217d6a3ef6662d1ede6126b2ace2ffada1b27dbc",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786855303~acl=/*~id=99235443659157942440981524070053~hmac=ce2009281ebdf7624c309743217d6a3ef6662d1ede6126b2ace2ffada1b27dbc"
         },
         {
             "event_category": "Fight Sports",
