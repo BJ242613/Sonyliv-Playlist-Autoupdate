@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:30:46 28-08-2026",
+    "last update time": "10:45:50 28-08-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540652_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809857848573_JPL_26_Pagariya-Strikers-vs-Mumbai-Sobo-Stars_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "JITO Premier League 2026",
+            "match_name": "Pagariya Strikers vs Mumbai Sobo Stars - 28 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787937349~acl=/*~id=05604127757614729181927067221315~hmac=671ab7e7970c86a20e5b0aa13be6b16307bdc5da2c3d43eaf5acb84db692b7de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787937349~acl=/*~id=05604127757614729181927067221315~hmac=671ab7e7970c86a20e5b0aa13be6b16307bdc5da2c3d43eaf5acb84db692b7de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787937349~acl=/*~id=05604127757614729181927067221315~hmac=671ab7e7970c86a20e5b0aa13be6b16307bdc5da2c3d43eaf5acb84db692b7de"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
