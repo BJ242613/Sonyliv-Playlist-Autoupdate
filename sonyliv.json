@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:59:55 02-09-2026",
+    "last update time": "23:23:13 02-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -64,48 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541196_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541196_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541190_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023305/1788253435543955_JPL_26_Mumbai-Kings-vs-Pune-Peshwas_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Mumbai Kings vs Pune Peshwas - 2 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788402592~acl=/*~id=99566899776264177262582328353759~hmac=2c3a7b118ff3c3923112e1cf5feacd9f3f83aa2a452c58f5a8154b1ab01857f5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -117,12 +78,12 @@
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Sports",
             "isLive": false,
             "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022689/1787385247438643_AsianGame26_IND_vs_PAK_QF_Promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
+            "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
