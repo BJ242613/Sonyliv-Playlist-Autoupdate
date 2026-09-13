@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India Women vs Sri Lanka Women - Final - 13 Sep 2026 [ENG] - DP World Women's Asia Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789367895~acl=/*~id=83786081912169154089627073467939~hmac=f71f60520a5770b2752b37c0d0035eadb2a41b9b9fca47093a187b4968a7c09b
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India Women vs Sri Lanka Women - Final - 13 Sep 2026 [HIN] - DP World Women's Asia Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367895~acl=/*~id=83786081912169154089627073467939~hmac=f71f60520a5770b2752b37c0d0035eadb2a41b9b9fca47093a187b4968a7c09b
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TAM] - DP World Women's Asia Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789367895~acl=/*~id=83786081912169154089627073467939~hmac=f71f60520a5770b2752b37c0d0035eadb2a41b9b9fca47093a187b4968a7c09b
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TEL] - DP World Women's Asia Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789367895~acl=/*~id=83786081912169154089627073467939~hmac=f71f60520a5770b2752b37c0d0035eadb2a41b9b9fca47093a187b4968a7c09b
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India Women vs Sri Lanka Women - Final - 13 Sep 2026 [KAN] - DP World Women's Asia Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789367895~acl=/*~id=83786081912169154089627073467939~hmac=f71f60520a5770b2752b37c0d0035eadb2a41b9b9fca47093a187b4968a7c09b
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Amritsar Soormas vs Ludhiana Lions - Final - 13 Sep 2026 [HIN] - Sher-E-Punjab T20 League 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367895~acl=/*~id=83786081912169154089627073467939~hmac=f71f60520a5770b2752b37c0d0035eadb2a41b9b9fca47093a187b4968a7c09b
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Amritsar Soormas vs Ludhiana Lions - Final - 13 Sep 2026 [PAN] - Sher-E-Punjab T20 League 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789367895~acl=/*~id=83786081912169154089627073467939~hmac=f71f60520a5770b2752b37c0d0035eadb2a41b9b9fca47093a187b4968a7c09b
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="sonyliv-Archery", Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG] - Hyundai Archery World Cup Final
+https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789376374~acl=/*~id=67497758943729534431261139271558~hmac=6675ac0e2bc91130c8e20f46c364184243cd6c988d01af571511a36dd67661dc
 
