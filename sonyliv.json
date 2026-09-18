@@ -1,20 +1,16 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:53:20 18-09-2026",
+    "last update time": "23:15:17 18-09-2026",
     "matches": [
         {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090542757_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14"
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Sports",
@@ -24,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541822,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
         },
         {
             "event_category": "Hockey",
@@ -55,29 +60,11 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090538916,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
