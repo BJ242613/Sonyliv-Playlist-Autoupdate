@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:25:49 21-09-2026",
+    "last update time": "05:36:49 21-09-2026",
     "matches": [
+        {
+            "event_category": "Sepaktakraw",
+            "isLive": true,
+            "contentId": "1090541376_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India vs Japan - Sepaktakraw Regu - 21 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789992408~acl=/*~id=21022869770496748614718177986959~hmac=f179084bd084f1fcbb966a2cec2cf49e49c294eb350226614a2b1396eda20606",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789992408~acl=/*~id=21022869770496748614718177986959~hmac=f179084bd084f1fcbb966a2cec2cf49e49c294eb350226614a2b1396eda20606",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789992408~acl=/*~id=21022869770496748614718177986959~hmac=f179084bd084f1fcbb966a2cec2cf49e49c294eb350226614a2b1396eda20606"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
