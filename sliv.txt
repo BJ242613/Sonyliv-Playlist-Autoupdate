@@ -5289,3 +5289,4 @@ Last sync: Mon Jan  5 21:34:35 UTC 2026
 🚀 SonyLIV Synced | IST: 2026-10-07 07:43:52 | ID: 23460
 🚀 SonyLIV Synced | IST: 2026-10-07 14:17:19 | ID: 31656
 🚀 SonyLIV Synced | IST: 2026-10-07 21:19:01 | ID: 14868
+🚀 SonyLIV Synced | IST: 2026-10-08 02:20:00 | ID: 30153
