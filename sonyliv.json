@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:59:32 26-10-2026",
+    "last update time": "14:42:30 26-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090550644_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",
+            "contentId": "1090550648_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India A Tour of New Zealand",
-            "match_name": "1st Unofficial Test - Day 3 - 26 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793028572~acl=/*~id=43883614447602998900804462594089~hmac=5beb476e2ef16376dfd38ba66d4c67e21f27ee0c0ef3020c4655ac0b4e017861",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793028572~acl=/*~id=43883614447602998900804462594089~hmac=5beb476e2ef16376dfd38ba66d4c67e21f27ee0c0ef3020c4655ac0b4e017861",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793028572~acl=/*~id=43883614447602998900804462594089~hmac=5beb476e2ef16376dfd38ba66d4c67e21f27ee0c0ef3020c4655ac0b4e017861"
+            "audioLanguageName": "HIN",
+            "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+            "match_name": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793049150~acl=/*~id=94089664509369828843140759070125~hmac=12dc2323be732b401ccad97bf04f913c0fd6916bc871e50596ba7343098fc96c",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793049150~acl=/*~id=94089664509369828843140759070125~hmac=12dc2323be732b401ccad97bf04f913c0fd6916bc871e50596ba7343098fc96c",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793049150~acl=/*~id=94089664509369828843140759070125~hmac=12dc2323be732b401ccad97bf04f913c0fd6916bc871e50596ba7343098fc96c"
         },
         {
             "event_category": "Cricket",
@@ -29,7 +29,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662898760446_ISL_Mohun-Bagan-Super-Giant-vs-Chennaiyin-FC_promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662910990446_ISL_Mohun-Bagan-Super-Giant-vs-Chennaiyin-FC_promo_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
