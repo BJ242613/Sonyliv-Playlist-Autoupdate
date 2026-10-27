@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:29:46 27-10-2026",
+    "last update time": "05:51:32 27-10-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090550766_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India A Tour of New Zealand",
+            "match_name": "1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793103692~acl=/*~id=03650632818215177114271688741997~hmac=ebd4379e5513cf4fae1725b7c9f2c746f9f2b88eefea4c1e1a07b2191e1a1857",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793103692~acl=/*~id=03650632818215177114271688741997~hmac=ebd4379e5513cf4fae1725b7c9f2c746f9f2b88eefea4c1e1a07b2191e1a1857",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793103692~acl=/*~id=03650632818215177114271688741997~hmac=ebd4379e5513cf4fae1725b7c9f2c746f9f2b88eefea4c1e1a07b2191e1a1857"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
