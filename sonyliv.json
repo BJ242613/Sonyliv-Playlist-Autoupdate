@@ -1,26 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:52:10 28-10-2026",
+    "last update time": "16:55:42 28-10-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090550845_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-            "match_name": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793208130~acl=/*~id=58240397038304382007425070200171~hmac=33a8d4019ae46f802be34daaab6a682ae4710efcc45d144dc68984b48aa0de26",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793208130~acl=/*~id=58240397038304382007425070200171~hmac=33a8d4019ae46f802be34daaab6a682ae4710efcc45d144dc68984b48aa0de26",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793208130~acl=/*~id=58240397038304382007425070200171~hmac=33a8d4019ae46f802be34daaab6a682ae4710efcc45d144dc68984b48aa0de26"
-        },
         {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662643467446_ISL_FC-Goa-vs-Sporting-Club-Delhi_promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662620420446_ISL_FC-Goa-vs-Sporting-Club-Delhi_promo_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
@@ -33,6 +20,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551225,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027597/179318077717911_ind_vs_nz_roko_is_back_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551224,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027594/1793180749542701_ind_vs_nz_roko_and_men_in_blue_action_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
@@ -66,15 +71,6 @@
             "isLive": false,
             "contentId": 1090548932,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090549928,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026951/179264549504218_NZ_vs_IND_promo_thumb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
