@@ -1,33 +1,42 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:21 05-11-2026",
+    "last update time": "18:58:21 05-11-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090552565_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090552590_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Bangladesh vs Afghanistan - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86"
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793928500~acl=/*~id=93299561291345228726953003965634~hmac=e230e18d84f0def1bde0c1b40b4835354d3a080562ccddd06089b09af5c2178c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793928500~acl=/*~id=93299561291345228726953003965634~hmac=e230e18d84f0def1bde0c1b40b4835354d3a080562ccddd06089b09af5c2178c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793928500~acl=/*~id=93299561291345228726953003965634~hmac=e230e18d84f0def1bde0c1b40b4835354d3a080562ccddd06089b09af5c2178c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090552590_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [HIN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793928500~acl=/*~id=93299561291345228726953003965634~hmac=e230e18d84f0def1bde0c1b40b4835354d3a080562ccddd06089b09af5c2178c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793928500~acl=/*~id=93299561291345228726953003965634~hmac=e230e18d84f0def1bde0c1b40b4835354d3a080562ccddd06089b09af5c2178c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793928500~acl=/*~id=93299561291345228726953003965634~hmac=e230e18d84f0def1bde0c1b40b4835354d3a080562ccddd06089b09af5c2178c"
         },
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090552560_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028170/1793739045231457_ACC_MensU19_SL_vs_Malaysia_live_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090552324,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Sri Lanka vs Malaysia - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86"
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
@@ -39,13 +48,13 @@
             "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090552324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
+            "contentId": 1090552149,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796343913833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026"
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27"
         },
         {
             "event_category": "Football",
@@ -64,15 +73,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Men's Asia Cup Rising Stars 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090552149,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028135/1793695506618986_Europe_league_matchday_4_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -114,7 +114,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090552481,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028191/1793759105413697_ACRS26_INDvsPAK_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028373/1793864472359710_india_cricket_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Cricket Non-Stop Combo"
