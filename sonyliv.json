@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:13:40 06-11-2026",
+    "last update time": "06:36:01 06-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551930_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959760705155_UEL26_MD4_Leverkusen_vs_Olympiquede_Marseille_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Bayer 04 Leverkusen vs Olympique de Marseille - 6 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793954620~acl=/*~id=74088873441899925787158698795169~hmac=8ff6d3fb0a43fc082c7d1f8fad880874b0d9742b77292d5f32f376d07da396de",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793954620~acl=/*~id=74088873441899925787158698795169~hmac=8ff6d3fb0a43fc082c7d1f8fad880874b0d9742b77292d5f32f376d07da396de",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793954620~acl=/*~id=74088873441899925787158698795169~hmac=8ff6d3fb0a43fc082c7d1f8fad880874b0d9742b77292d5f32f376d07da396de"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551932_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792960301043155_UEL26_MD4_AZ_Alkmaar_vs_Juventus_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "AZ Alkmaar vs Juventus - 6 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793954620~acl=/*~id=74088873441899925787158698795169~hmac=8ff6d3fb0a43fc082c7d1f8fad880874b0d9742b77292d5f32f376d07da396de",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793954620~acl=/*~id=74088873441899925787158698795169~hmac=8ff6d3fb0a43fc082c7d1f8fad880874b0d9742b77292d5f32f376d07da396de",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793954620~acl=/*~id=74088873441899925787158698795169~hmac=8ff6d3fb0a43fc082c7d1f8fad880874b0d9742b77292d5f32f376d07da396de"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
