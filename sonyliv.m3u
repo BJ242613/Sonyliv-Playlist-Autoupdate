@@ -1,19 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG] - India A Tour of New Zealand
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794145944~acl=/*~id=03974042784845951111411936725840~hmac=d49c6c6053b6dccf0ae1d08b9cc83a89faf6d858bc01489e0c93a71b2db35b04
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - 8 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794170352~acl=/*~id=82655453236631738675145254384762~hmac=cb5b9d80bc9551937760e4c8d9d49d615bed873b8745cca58b715e0642a772e7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [ENG] - UFC Fight Night - Cortes Acosta vs Walker 
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794145944~acl=/*~id=03974042784845951111411936725840~hmac=d49c6c6053b6dccf0ae1d08b9cc83a89faf6d858bc01489e0c93a71b2db35b04
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - 8 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794170352~acl=/*~id=82655453236631738675145254384762~hmac=cb5b9d80bc9551937760e4c8d9d49d615bed873b8745cca58b715e0642a772e7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [HIN] - UFC Fight Night - Cortes Acosta vs Walker 
-https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794145944~acl=/*~id=03974042784845951111411936725840~hmac=d49c6c6053b6dccf0ae1d08b9cc83a89faf6d858bc01489e0c93a71b2db35b04
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - 8 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794170352~acl=/*~id=82655453236631738675145254384762~hmac=cb5b9d80bc9551937760e4c8d9d49d615bed873b8745cca58b715e0642a772e7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TAM] - UFC Fight Night - Cortes Acosta vs Walker 
-https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794145944~acl=/*~id=03974042784845951111411936725840~hmac=d49c6c6053b6dccf0ae1d08b9cc83a89faf6d858bc01489e0c93a71b2db35b04
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - 8 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/master.m3u8?hdnea=exp=1794170352~acl=/*~id=82655453236631738675145254384762~hmac=cb5b9d80bc9551937760e4c8d9d49d615bed873b8745cca58b715e0642a772e7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TEL] - UFC Fight Night - Cortes Acosta vs Walker 
-https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794145944~acl=/*~id=03974042784845951111411936725840~hmac=d49c6c6053b6dccf0ae1d08b9cc83a89faf6d858bc01489e0c93a71b2db35b04
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - 8 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/master.m3u8?hdnea=exp=1794170352~acl=/*~id=82655453236631738675145254384762~hmac=cb5b9d80bc9551937760e4c8d9d49d615bed873b8745cca58b715e0642a772e7
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [KAN] - UFC Fight Night - Cortes Acosta vs Walker 
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794145944~acl=/*~id=03974042784845951111411936725840~hmac=d49c6c6053b6dccf0ae1d08b9cc83a89faf6d858bc01489e0c93a71b2db35b04
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028499/1793997230899948_ACC_MensU19_UAE_vs_Nepal_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", UAE vs Nepal - 8 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794170352~acl=/*~id=82655453236631738675145254384762~hmac=cb5b9d80bc9551937760e4c8d9d49d615bed873b8745cca58b715e0642a772e7
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888647343682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day4_landscape_thumb.jpg" group-title="sonyliv-Golf", Abu Dhabi HSBC Championship - Day 4 - 8 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794170352~acl=/*~id=82655453236631738675145254384762~hmac=cb5b9d80bc9551937760e4c8d9d49d615bed873b8745cca58b715e0642a772e7
 
