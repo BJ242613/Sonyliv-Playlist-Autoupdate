@@ -1,20 +1,81 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:49:26 15-11-2026",
+    "last update time": "12:16:41 15-11-2026",
     "matches": [
         {
-            "event_category": "Fight Sports",
+            "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090554243_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg",
+            "contentId": "1090554160_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "UFC 334 - Gane vs Hokit",
-            "match_name": "UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794745166~acl=/*~id=44424519287004820117689936339138~hmac=f1c31082e637a0cbdb880e86352f2659d4211c996c842f79e5af3cd96c701df6",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794745166~acl=/*~id=44424519287004820117689936339138~hmac=f1c31082e637a0cbdb880e86352f2659d4211c996c842f79e5af3cd96c701df6",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794745166~acl=/*~id=44424519287004820117689936339138~hmac=f1c31082e637a0cbdb880e86352f2659d4211c996c842f79e5af3cd96c701df6"
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th ODI - 15 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090554160_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th ODI - 15 Nov 2026 [HIN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090554160_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th ODI - 15 Nov 2026 [TAM]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090554160_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th ODI - 15 Nov 2026 [TEL]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090554163_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794768390~acl=/*~id=69705483649891872607799976717265~hmac=dbd1b08de868004c4e2edacebea87f71d182ed99f8f145d5503ddb6f6f4d9811"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090554424,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029069/1794681754806257_UNL_France_vs_Turkiye_Promo_landscape_thumb_tonight.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 6 - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -26,13 +87,22 @@
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090554104,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028889/1794518407838975_NZvsIND_5th_ODI_Promo_landscape_thumb_today.jpg",
+            "contentId": 1090554423,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310732622247_UNL26_Spain_vs_england_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 5th ODI - India Tour Of New Zealand 2026"
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Spain vs England - UEFA Nations League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090554422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029070/1794684070886792_UNL_Belgium_vs_Italy_Promo_landscape_thumb_tonight.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Belgium vs Italy - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -42,33 +112,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 1st Test - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090554422,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029070/1794684064588792_UNL_Belgium_vs_Italy_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Belgium vs Italy - UEFA Nations League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090554423,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310707562247_UNL26_Spain_vs_england_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs England - UEFA Nations League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090554424,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029069/1794681748721257_UNL_France_vs_Turkiye_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 6 - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Cricket",
