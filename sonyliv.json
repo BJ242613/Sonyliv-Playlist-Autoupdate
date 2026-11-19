@@ -1,81 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:23:07 19-11-2026",
+    "last update time": "15:28:51 19-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090554723_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
+            "contentId": "1090554810_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 1 - 19 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090554723_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
+            "contentId": "1090554805_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029365/1795067857037235_ACRS26_BANvsHKC_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 1 - 19 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090554723_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 1 - 19 Nov 2026 [TAM]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090554723_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 1 - 19 Nov 2026 [TEL]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090554723_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 1 - 19 Nov 2026 [KAN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090552650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029292/1794982400882962_AsiaCup_Rising_Star_Sri-A_vs_Afg-A_Today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026"
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448"
         },
         {
             "event_category": "Cricket",
@@ -103,6 +55,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090552650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026"
         },
         {
             "event_category": "Cricket",
